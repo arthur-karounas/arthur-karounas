@@ -1,2 +1,2 @@
-- ⭐️ **Core**: Go, PostgreSQL, Docker, Kubernetes, gRPC
+- ⭐️ **Core**: Go, PostgreSQL, Docker, Kubernetes, gRPC, Redis, Kafka
 - 💭 **Interested**: High-performance backend and microservices
